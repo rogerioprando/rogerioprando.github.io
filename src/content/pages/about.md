@@ -1,37 +1,14 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "Sobre mim"
+description: "Conheça a minha trajetória em engenharia de software, migrações para a nuvem e inteligência artificial."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Sou **Rogério Luiz Prando**, engenheiro de software na Atlassian, contratado pela e-Core. Trabalho em ferramentas que ajudam clientes a migrar Jira e Confluence do Server e Data Center para a nuvem, incluindo o **Jira Cloud Migration Assistant (JCMA)** e o **Confluence Cloud Migration Assistant (CCMA)**.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+Meu trabalho combina desenvolvimento de software, investigação de falhas e análise de causa raiz. Também crio scripts e ferramentas para simular cenários, validar migrações e ajudar a remover obstáculos em ambientes complexos de clientes e grandes empresas.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+No dia a dia, trabalho principalmente com **Java, Kotlin e Python**, além de microsserviços, APIs REST, SQL, Splunk, AWS e Databricks. Também uso ferramentas e agentes de IA para apoiar o desenvolvimento, a análise técnica e a investigação de problemas, sempre validando os resultados.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Minha trajetória começou em **eletrônica e sistemas embarcados**, com desenvolvimento em C e Rust, Linux embarcado e análise de dados de redes CAN. Depois, trabalhei com desenvolvimento full stack em Java e sistemas web. Essa experiência me permite transitar entre detalhes de baixo nível, sistemas distribuídos e conversas com clientes.
 
-## Features
-
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Atualmente, curso uma pós-graduação em **Engenharia de IA Aplicada**, com foco em temas como LLMs, RAG e sistemas de inteligência artificial.
