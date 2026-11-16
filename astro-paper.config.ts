@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://rogerioprando.github.io/",
     title: "rogerioprando",
     description:
-      "Engenheiro de software na Atlassian, com experiência em migrações para a nuvem, ferramentas, automação e inteligência artificial aplicada.",
+      "Engenheiro de software na Atlassian, com experiência em migrações de Server/DataCenter para Cloud dos produtos Jira e Confluence, automação e inteligência artificial aplicada.",
     author: "Rogério Luiz Prando",
     profile: "https://www.linkedin.com/in/rogerio-luiz-prando",
     ogImage: "default-og.jpg",
@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/rogerioprando/rogerioprando.github.io/edit/master/src/content/posts/",
+      url: "https://github.com/rogerioprando/rogerioprando.github.io/edit/master/",
     },
     search: "pagefind",
     toc: true,
